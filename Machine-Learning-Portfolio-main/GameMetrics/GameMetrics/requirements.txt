@@ -1,0 +1,17 @@
+# GameMetrics Dashboard — Dépendances Python
+# Installation : pip install -r requirements.txt
+
+# Interface web
+streamlit>=1.32.0
+
+# Base de données MongoDB
+pymongo>=4.7.0
+
+# Graphiques interactifs
+plotly>=5.20.0
+
+# Manipulation de données
+pandas>=2.2.0
+
+# Variables d'environnement
+python-dotenv>=1.0.0

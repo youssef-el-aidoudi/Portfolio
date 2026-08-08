@@ -1,0 +1,29 @@
+{
+  "_id": "player_yanis",
+  "username": "YanisDZ",
+  "region": "EUW",
+  "join_date": "2024-09-15",
+  "library": [
+    {
+      "game_id": "game_valorant",
+      "playtime": 420,
+      "status": "active",
+      "last_played": "2026-04-20",
+      "skill_level": "advanced"
+    },
+    {
+      "game_id": "game_lol",
+      "playtime": 310,
+      "status": "active",
+      "last_played": "2026-04-17",
+      "skill_level": "intermediate"
+    },
+    {
+      "game_id": "game_overwatch2",
+      "playtime": 85,
+      "status": "uninstalled",
+      "last_played": "2026-03-02",
+      "skill_level": "beginner"
+    }
+  ]
+}

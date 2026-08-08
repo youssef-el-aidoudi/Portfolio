@@ -1,0 +1,51 @@
+{
+  "_id": "game_valorant",
+  "title": "Valorant",
+  "developer": "Riot Games",
+  "release_date": "2020-06-02",
+  "genre": "FPS",
+  "specifications": {
+    "subgenre": "Hero Shooter",
+    "platforms": ["PC"],
+    "business_model": "Free-to-play",
+    "team_format": "5v5",
+    "perspective": "First-person",
+    "ranked_mode": true,
+    "voice_chat": true,
+    "anti_cheat": "Vanguard",
+    "main_modes": ["Unrated", "Competitive", "Deathmatch", "Spike Rush"],
+    "weapon_categories": ["Pistols", "SMGs", "Rifles", "Sniper Rifles", "Shotguns"],
+    "avg_match_duration_min": 35,
+    "play_style": "Tactical",
+    "competitive_scene": true
+  },
+  "reviews": [
+    {
+      "author_id": "player_yanis",
+      "rating": 9,
+      "recommended": true,
+      "comment": "Excellent jeu compétitif, gameplay précis et bonne variété d'agents.",
+      "date": "2026-04-10"
+    },
+    {
+      "author_id": "player_lina",
+      "rating": 8,
+      "recommended": true,
+      "comment": "Très bon FPS tactique, mais le matchmaking peut parfois être frustrant.",
+      "date": "2026-04-12"
+    },
+    {
+      "author_id": "player_nabil",
+      "rating": 6,
+      "recommended": false,
+      "comment": "Le jeu est solide, mais la communauté devient parfois toxique.",
+      "date": "2026-04-18"
+    }
+  ],
+  "metrics": {
+    "avg_rating": 0,
+    "positive_ratio": 0,
+    "review_count": 0,
+    "engagement_score": 0
+  }
+}
